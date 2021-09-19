@@ -1,0 +1,243 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1165; Version 2009; 64bit' Language: 'ru' Physical Memory: 8039 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+I:/Unity/Projects/2dPlatformer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62363
+Successfully changed project path to: I:/Unity/Projects/2dPlatformer
+I:/Unity/Projects/2dPlatformer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path I:/Unity/Projects/2dPlatformer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX230 (ID=0x1d11)
+    Vendor:   
+    VRAM:     1984 MB
+    Driver:   26.21.14.4141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002008 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.231 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1231ms)
+		BeginReloadAssembly (59ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (462ms)
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (179ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (176ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (18ms)
+				ProcessInitializeOnLoadAttributes (79ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002555 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.280 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1281ms)
+		BeginReloadAssembly (145ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1075ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (298ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (515ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (368ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2534.
+Total: 3.587200 ms (FindLiveObjects: 0.223200 ms CreateObjectMapping: 0.068100 ms MarkObjects: 3.185700 ms  DeleteObjects: 0.109300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Ninja Files/Ninja PNG/Sword
+  artifactKey: Guid(f82c9cd7ccd0875488065b8e2bb0e57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword using Guid(f82c9cd7ccd0875488065b8e2bb0e57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b05f2fadcbb9c670c75c26e157670a8f') in 0.114777 seconds 
+  Import took 0.144852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.200468 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_skill 6.png
+  artifactKey: Guid(ef15c95532a07034d81a1ad104693e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_skill 6.png using Guid(ef15c95532a07034d81a1ad104693e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda0016a52f053039b1886387d4e2322') in 0.360324 seconds 
+  Import took 0.377510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_skill 7.png
+  artifactKey: Guid(fbb98615f43f06b479717d629ebfe3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_skill 7.png using Guid(fbb98615f43f06b479717d629ebfe3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1062f49210d1dffb6cfeb1b0cb5e2b61') in 0.095548 seconds 
+  Import took 0.120709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 4.png
+  artifactKey: Guid(cdf061b8c6dd3e54386ba499c558657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 4.png using Guid(cdf061b8c6dd3e54386ba499c558657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e0cc2e3cf8f7cccaadf64b7361199bd') in 0.055312 seconds 
+  Import took 0.072794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 7.png
+  artifactKey: Guid(94e3547162e394d4389b032cb17fcd9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 7.png using Guid(94e3547162e394d4389b032cb17fcd9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd35ffbf23d3e59b73cafcfaa1441eaf8') in 0.072444 seconds 
+  Import took 0.089921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 2.png
+  artifactKey: Guid(a1473ce1d90be0148a5ad29c6359904f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 2.png using Guid(a1473ce1d90be0148a5ad29c6359904f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b8881f2a5a47112395bdf305fa56e08') in 0.080190 seconds 
+  Import took 0.102972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_swordidle 1.png
+  artifactKey: Guid(56eaee993fc09af458f443ca00e97345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_swordidle 1.png using Guid(56eaee993fc09af458f443ca00e97345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec53e2e657f977cf8814a88666ee50f') in 0.043418 seconds 
+  Import took 0.059793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 6.png
+  artifactKey: Guid(be08df6609de76e49a53ade2cf88cef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 6.png using Guid(be08df6609de76e49a53ade2cf88cef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8cbd812a46d8c488eaa1cfb079f0d3') in 0.061546 seconds 
+  Import took 0.080050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_swordidle 3.png
+  artifactKey: Guid(d666468cc5253764992cc1cce0f05537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_swordidle 3.png using Guid(d666468cc5253764992cc1cce0f05537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9687f7099dababdcf98dd240e1e3d5d') in 0.044425 seconds 
+  Import took 0.063279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 3.png
+  artifactKey: Guid(502e787bdc32ba64ca25ddb1d323750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 3.png using Guid(502e787bdc32ba64ca25ddb1d323750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b27d9753392124aac27543c4d67ef71') in 0.111662 seconds 
+  Import took 0.132142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 1.png
+  artifactKey: Guid(84efbe0c7dc42804ba12f5892aeaed73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 1.png using Guid(84efbe0c7dc42804ba12f5892aeaed73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b5e2cdf64c5327994afcdf5e7030f0f') in 0.040471 seconds 
+  Import took 0.043724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_swordidle 2.png
+  artifactKey: Guid(3408e80062fca89428c2647499e814d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_swordidle 2.png using Guid(3408e80062fca89428c2647499e814d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab1cb62b82247db3b6a76ff05dcc13d') in 0.058968 seconds 
+  Import took 0.089600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 8.png
+  artifactKey: Guid(682dfe437ea0303459e845355ce989d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 8.png using Guid(682dfe437ea0303459e845355ce989d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '805db74492e947346d8ff9079d43d949') in 0.134880 seconds 
+  Import took 0.153475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 5.png
+  artifactKey: Guid(8dab2e8d091f8b74faeb486bdb813449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Files/Ninja PNG/Sword/SNinja_strike 5.png using Guid(8dab2e8d091f8b74faeb486bdb813449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5880f4c915ccbc178a89781692ac832f') in 0.045169 seconds 
+  Import took 0.049204 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
